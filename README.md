@@ -1,7 +1,7 @@
 - 👋 Hi, I’m kandula Deekshitha reddy
-- 👀 I’m interested in artificial intelligence in health care 
+- 👀 I’m interested in machine learning ,Natural language processing
 - 🌱 I’m currently pursuing Btech in computer science and engineering 
-- 💞️ I’m looking to collaborate on a project involving AI which will help me improve much more 
+- 💞️ I’m looking to have a practical field experience of a SDE 
 - 📫 u can reach me on  gmail // deekshithareddykandula@gmail.com
 
 <!---
